@@ -1,3 +1,5 @@
+//有一个含n（n<=200000）个整数的无序序列，采用希尔排序实现递增排序
+
 #include <iostream>
 #include <vector>
 #include <fstream>
@@ -39,4 +41,5 @@ int main() {
     outfile.close();
 
     return 0;    
+
 }
