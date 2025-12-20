@@ -1,3 +1,5 @@
+//有一个含n（n<=200000）个整数的无序序列，设计一个算法利用快速排序思路求前10个最大的元素。(快速排序)
+
 #include<iostream>
 #include<vector>
 #include<fstream>
@@ -50,4 +52,5 @@ int main() {
     outfile.close();
 
     return 0;
+
 }
