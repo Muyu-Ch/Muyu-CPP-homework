@@ -1,3 +1,5 @@
+//给你n个整数，请按从大到小的顺序输出其中前m大的数。
+
 #include<iostream>
 #include<vector>
 #include<sstream>
@@ -39,4 +41,5 @@ int main() {
 
 	firstm(nums, m);
 	return 0;
+
 }
